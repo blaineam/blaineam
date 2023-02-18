@@ -15,7 +15,7 @@
 ### Here's some more about me
 - 🌱 I’m currently learning more about React and Symfony (API Platform) frameworks.
 - 👯 I’m looking to collaborate on CLI projects that improve productivity. These tools are fun to build, useful, and are different enough from my daily work. 
-- 🤔 What I want to learn next: My 2022 goal is to dive deep into Virtual Reality based projects, from learning modeling in blender to maybe writing a basic game.
+- 🤔 What I want to learn next: My 2023 goal is to dive deep into Virtual Reality based projects, from learning modeling in blender to maybe writing a basic game.
 - 📫 How to reach me: blaine@blaineam.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  I like to photograph the world around me, from scenic landscapes to the starry night sky. I also plan to take my dog, Luma, camping more and more every year!

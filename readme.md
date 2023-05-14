@@ -23,8 +23,9 @@
 ### A quick project reference
 | Project |Status | Source | Stack | Currently Deploying To |
 |------|-------|--------|-------|------------------------|
-| CalypsDoH | Operational | [Github](https://github.com/blaineam/CalypsDoH) | PHP, grep, public DoH services | Github, [Barker](https://barker.millers.cloud) |
-| EncRelay | Operational | [Github](https://github.com/blaineam/EncRelay) | PHP, JS | Github, [Privuma](https://github.com/blaineamiller/privuma) |
-| Convero CLI | Operational |[Github](https://github.com/blaineamiller/convero) | PHP, FFMPEG, Gifsicle, PNGQuant, apngasm, ImageMagick, webp | Github
-| Privuma | Operational |[Github](https://github.com/blaineamiller/privuma) | PHP, FFMPEG, Gifsicle, Curl, Cron, ImageMagick, Docker | Docker, Github   
-| Shopify Ultimate Component | Deployed |[Github](https://github.com/blaineamiller/shopify-ultimate-component) | Liquid, JS, animate.css, lax.js, Shopify | Github, [WAMCoffee.com](https://wamcoffee.com)
+| CalypsDoH - PHP DoH Server| Operational | [Github](https://github.com/blaineam/CalypsDoH) | PHP, grep, public DoH services | Github, [Barker](https://barker.millers.cloud) |
+| EncRelay - PHP to JS Encrypted Media Files | Operational | [Github](https://github.com/blaineam/EncRelay) | PHP, JS | Github, [Privuma](https://github.com/blaineamiller/privuma) |
+| Convero CLI - Brute Force Animated Sticker Compressor | Operational |[Github](https://github.com/blaineamiller/convero) | PHP, FFMPEG, Gifsicle, PNGQuant, apngasm, ImageMagick, webp | Github
+| Privuma - Media Aquisition, Processing, & Archiving Service | Operational |[Github](https://github.com/blaineamiller/privuma) | PHP, FFMPEG, Gifsicle, Curl, Cron, ImageMagick, Docker | Docker, Github   
+| Shopify Ultimate Component - A Swiss army knife for building Shopify Stores | Deployed |[Github](https://github.com/blaineamiller/shopify-ultimate-component) | Liquid, JS, animate.css, lax.js, Shopify | Github
+| RapiPub - Youtube Upload Automation Service | Operational |[Github](https://github.com/blaineam/RapiPub) | BASH, FFMPEG, youtubeuploader | Github

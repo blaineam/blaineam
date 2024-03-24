@@ -23,6 +23,7 @@
 ### A quick project reference
 | Project |Status | Source | Stack | Currently Deploying To |
 |------|-------|--------|-------|------------------------|
+| WEmulator - static site classic game emulator| Operational | [Github](https://github.com/blaineam/wemulator) | JS, PHP(Optional), [EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) | Github |
 | CalypsDoH - PHP DoH Server| Operational | [Github](https://github.com/blaineam/CalypsDoH) | PHP, grep, public DoH services | Github, [Barker](https://barker.millers.cloud) |
 | EncRelay - PHP to JS Encrypted Media Files | Operational | [Github](https://github.com/blaineam/EncRelay) | PHP, JS | Github, [Privuma](https://github.com/blaineamiller/privuma) |
 | Convero CLI - Brute Force Animated Sticker Compressor | Operational |[Github](https://github.com/blaineamiller/convero) | PHP, FFMPEG, Gifsicle, PNGQuant, apngasm, ImageMagick, webp | Github

@@ -15,8 +15,6 @@
 
 ### What am I up to
 
-- 🔭 I’m currently working on **AWS Certifications**
-
 - 🌱 I’m currently learning **more about React, SwiftUI and CLI scripting**
 
 - 👯 I’m looking to collaborate on **video game related projects including emulators and mixed reality**

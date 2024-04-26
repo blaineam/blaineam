@@ -35,13 +35,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/blaineam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="blaineam" height="30" width="40" /></a>
-<a href="https://twitter.com/helloblaine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="helloblaine" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/millerblaine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="millerblaine" height="30" width="40" /></a>
+<a href="https://codepen.io/blaineam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="blaineam" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/2062820" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2062820" height="30" width="40" /></a>
-<a href="https://fb.com/helloblainemiller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="helloblainemiller" height="30" width="40" /></a>
-<a href="https://instagram.com/120.media" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="120.media" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC6OmEM81eJnE1CUBUffZ6jQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="blaineam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -51,10 +47,10 @@
 ### A quick project reference
 | Project |Status | Source | Stack | Currently Deploying To |
 |------|-------|--------|-------|------------------------|
-| WEmulator - static site classic game emulator| Operational | [Github](https://github.com/blaineam/wemulator) | JS, PHP(Optional), [EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) | Github |
 | CalypsDoH - PHP DoH Server| Operational | [Github](https://github.com/blaineam/CalypsDoH) | PHP, grep, public DoH services | Github, [Barker](https://barker.millers.cloud) |
+| Shopify Ultimate Component - A Swiss army knife for building Shopify Stores | Deployed |[Github](https://github.com/blaineamiller/shopify-ultimate-component) | Liquid, JS, animate.css, lax.js, Shopify | Github
+| Privuma - Media Aquisition, Processing, & Archiving Service | Operational |[Github](https://github.com/blaineamiller/privuma) | PHP, FFMPEG, Gifsicle, Curl, Cron, ImageMagick, Docker | Docker, Github   
 | EncRelay - PHP to JS Encrypted Media Files | Operational | [Github](https://github.com/blaineam/EncRelay) | PHP, JS | Github, [Privuma](https://github.com/blaineamiller/privuma) |
 | Convero CLI - Brute Force Animated Sticker Compressor | Operational |[Github](https://github.com/blaineamiller/convero) | PHP, FFMPEG, Gifsicle, PNGQuant, apngasm, ImageMagick, webp | Github
-| Privuma - Media Aquisition, Processing, & Archiving Service | Operational |[Github](https://github.com/blaineamiller/privuma) | PHP, FFMPEG, Gifsicle, Curl, Cron, ImageMagick, Docker | Docker, Github   
-| Shopify Ultimate Component - A Swiss army knife for building Shopify Stores | Deployed |[Github](https://github.com/blaineamiller/shopify-ultimate-component) | Liquid, JS, animate.css, lax.js, Shopify | Github
 | RapiPub - Youtube Upload Automation Service | Operational |[Github](https://github.com/blaineam/RapiPub) | BASH, FFMPEG, youtubeuploader | Github
+| WEmulator - static site classic game emulator| Operational | [Github](https://github.com/blaineam/wemulator) | JS, PHP(Optional), [EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) | Github |

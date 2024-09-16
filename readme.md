@@ -23,8 +23,6 @@
 
 - 👨‍💻 All of my projects are available at [https://wemiller.com](https://wemiller.com)
 
-- 📝 I regularly write articles on [https://www.wemiller.com/discoveries/](https://www.wemiller.com/discoveries/)
-
 - 💬 Ask me about **PHP, JS, Swift, Infrastructure, General IT**
 
 - 📫 How to reach me **blaine@wemiller.com**

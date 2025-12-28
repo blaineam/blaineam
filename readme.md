@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Blaine Miller</h1>
 <h3 align="center">A friendly Senior Software Engineer from California</h3>
 
-- 🔭 I’m currently working on [Supporting the many iOS apps I have on the App Store](https://apps.apple.com/no/developer/blaine-miller/id1348196068)
+- 🔭 I’m currently working on [Supporting the many iOS apps I have on the App Store](https://wemiller.com/apps/)
 
 - 🌱 I’m currently learning **more about Kubernetes and Java**
 
@@ -28,10 +28,14 @@
 ### A quick project reference
 | Project |Status | Source | Stack | Currently Deploying To |
 |------|-------|--------|-------|------------------------|
-| CalypsDoH - PHP DoH Server| Operational | [Github](https://github.com/blaineam/CalypsDoH) | PHP, grep, public DoH services | Github, [Barker](https://barker.millers.cloud) |
+| KeyStone -  SwiftUI Code Editor Component | Operational | [Github](https://github.com/blaineam/KeyStone) | Swift | Github, [Enter Space](https://wemiller.com/apps/enter-space/) |
+| MediaStream - SwiftUI Media Gallery | Operational | [Github](https://github.com/blaineam/MediaStream) | Swift | Github, [Ari Helper](https://wemiller.com/apps/ari-helper/) |
+| VideoJS-VR - WebXR 360/Stereoscopic Media Player | Operational | [Github](https://github.com/blaineam/videojs-vr) | Swift | Github, [NPM](https://www.npmjs.com/package/@blaineam/videojs-vr), [Privuma](https://github.com/blaineamiller/privuma) |
+| CalypsDoH - PHP DoH Server| Operational | [Github](https://github.com/blaineam/CalypsDoH) | PHP, grep, public DoH services | Github |
 | Shopify Ultimate Component - A Swiss army knife for building Shopify Stores | Deployed |[Github](https://github.com/blaineamiller/shopify-ultimate-component) | Liquid, JS, animate.css, lax.js, Shopify | Github
 | Privuma - Media Aquisition, Processing, & Archiving Service | Operational |[Github](https://github.com/blaineamiller/privuma) | PHP, FFMPEG, Gifsicle, Curl, Cron, ImageMagick, Docker | Docker, Github   
 | EncRelay - PHP to JS Encrypted Media Files | Operational | [Github](https://github.com/blaineam/EncRelay) | PHP, JS | Github, [Privuma](https://github.com/blaineamiller/privuma) |
 | Convero CLI - Brute Force Animated Sticker Compressor | Operational |[Github](https://github.com/blaineamiller/convero) | PHP, FFMPEG, Gifsicle, PNGQuant, apngasm, ImageMagick, webp | Github
 | RapiPub - Youtube Upload Automation Service | Operational |[Github](https://github.com/blaineam/RapiPub) | BASH, FFMPEG, youtubeuploader | Github
 | WEmulator - static site classic game emulator| Operational | [Github](https://github.com/blaineam/wemulator) | JS, PHP(Optional), [EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) | Github |
+

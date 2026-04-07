@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Supporting the many iOS apps I have on the App Store](https://wemiller.com/apps/)
 
-- 🌱 I’m currently learning **more about Kubernetes and Java**
+- 🌱 I’m currently learning **more about on-device AI/ML with Apple MLX**
 
-- 👯 I’m looking to collaborate on **AI/ML and possibly VR**
+- 👯 I’m looking to collaborate on **AI/ML, VR, and privacy-first tooling**
 
 - 👨‍💻 All of my projects are available at [https://wemiller.com](https://wemiller.com)
 
@@ -28,11 +28,11 @@
 ### A quick project reference
 | Project |Status | Source | Stack | Currently Deploying To |
 |------|-------|--------|-------|------------------------|
-| KeyStone -  SwiftUI Code Editor Component | Operational | [Github](https://github.com/blaineam/KeyStone) | Swift | Github, [Enter Space](https://wemiller.com/apps/enter-space/) |
-| MediaStream - SwiftUI Media Gallery | Operational | [Github](https://github.com/blaineam/MediaStream) | Swift | Github, [Ari Helper](https://wemiller.com/apps/ari-helper/) |
-| Tessera - Secure, Affordable, Mac App Licensing System | Operational | [Github](https://github.com/blaineam/Tessera) | Swift | Github, [Ari Helper](https://wemiller.com/apps/ari-helper/) |
+| KeyStone - SwiftUI Code Editor Component | Operational | [Github](https://github.com/blaineam/KeyStone) | Swift | Github, [Enter Space](https://wemiller.com/apps/enter-space/) |
+| MediaStream - SwiftUI Video Playback Library | Operational | [Github](https://github.com/blaineam/MediaStream) | Swift | Github, [Ari Helper](https://wemiller.com/apps/ari-helper/) |
+| Tessera - Cryptographic App Licensing (macOS & iOS) | Operational | [Github](https://github.com/blaineam/Tessera) | Go | Github, [Ari Helper](https://wemiller.com/apps/ari-helper/) |
 | VideoJS-VR - WebXR 360/Stereoscopic Media Player | Operational | [Github](https://github.com/blaineam/videojs-vr) | Javascript | Github, [NPM](https://www.npmjs.com/package/@blaineam/videojs-vr), [Privuma](https://github.com/blaineamiller/privuma) |
-| CalypsDoH - PHP DoH Server| Operational | [Github](https://github.com/blaineam/CalypsDoH) | PHP, grep, public DoH services | Github |
+| CalypsDoH - Encrypted DNS-over-HTTPS Proxy | Operational | [Github](https://github.com/blaineam/CalypsDoH) | Go | Github |
 | Shopify Ultimate Component - A Swiss army knife for building Shopify Stores | Deployed |[Github](https://github.com/blaineamiller/shopify-ultimate-component) | Liquid, JS, animate.css, lax.js, Shopify | Github
 | EncRelay - PHP to JS Encrypted Media Files | Archived | [Github](https://github.com/blaineam/EncRelay) | PHP, JS | Github, [Privuma](https://github.com/blaineamiller/privuma) |
 | Convero CLI - Brute Force Animated Sticker Compressor | Archived |[Github](https://github.com/blaineamiller/convero) | PHP, FFMPEG, Gifsicle, PNGQuant, apngasm, ImageMagick, webp | Github

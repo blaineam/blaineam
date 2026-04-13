@@ -28,6 +28,7 @@
 ### A quick project reference
 | Project |Status | Source | Stack | Currently Deploying To |
 |------|-------|--------|-------|------------------------|
+| Glint - DDC Display Brightness & Volume Control | Operational | [Github](https://github.com/blaineam/Glint) | Swift, IOKit, DDC/CI | Github, [glint.wemiller.com](https://glint.wemiller.com) |
 | Monkr - Browser-Based Device Mockup Generator | Operational | [Github](https://github.com/blaineam/Monkr) | SvelteKit, TypeScript, Tailwind | Github |
 | KeyStone - SwiftUI Code Editor Component | Operational | [Github](https://github.com/blaineam/KeyStone) | Swift | Github, [Enter Space](https://wemiller.com/apps/enter-space/) |
 | MediaStream - SwiftUI Video Playback Library | Operational | [Github](https://github.com/blaineam/MediaStream) | Swift | Github, [Ari Helper](https://wemiller.com/apps/ari-helper/) |

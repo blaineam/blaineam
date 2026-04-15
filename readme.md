@@ -28,6 +28,7 @@
 ### A quick project reference
 | Project |Status | Source | Stack | Currently Deploying To |
 |------|-------|--------|-------|------------------------|
+| Blip - Featherlight macOS Menu Bar System Monitor | Operational | [Github](https://github.com/blaineam/Blip) | Swift, SwiftUI, IOKit, SMC | Github, [blip.wemiller.com](https://blip.wemiller.com) |
 | Glint - DDC Display Brightness & Volume Control | Operational | [Github](https://github.com/blaineam/Glint) | Swift, IOKit, DDC/CI | Github, [glint.wemiller.com](https://glint.wemiller.com) |
 | Monkr - Browser-Based Device Mockup Generator | Operational | [Github](https://github.com/blaineam/Monkr) | SvelteKit, TypeScript, Tailwind | Github |
 | KeyStone - SwiftUI Code Editor Component | Operational | [Github](https://github.com/blaineam/KeyStone) | Swift | Github, [Enter Space](https://wemiller.com/apps/enter-space/) |

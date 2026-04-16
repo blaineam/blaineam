@@ -19,7 +19,7 @@
 [![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/blaineam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/millerblaine) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2062820)
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=swift,go,ts,js,react,angular,svelte,nextjs,nodejs,express,html,css,sass,tailwind,bootstrap,py,flask,java,php,laravel,symfony,cs,dotnet,docker,kubernetes,aws,gcp,azure,firebase,git,linux,bash,nginx,mongodb,mysql,postgres,redis,sqlite,elasticsearch,kafka,rabbitmq,android,electron,unity,blender,webpack,gulp,jest,cypress,opencv,grafana&perline=17)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,go,ts,js,react,angular,svelte,nextjs,nodejs,express,html,css,sass,tailwind,bootstrap,py,flask,java,php,laravel,symfony,cs,dotnet,docker,kubernetes,aws,gcp,azure,firebase,git,linux,bash,nginx,mongodb,mysql,postgres,maria,redis,sqlite,elasticsearch,kafka,rabbitmq,android,electron,unity,blender,webpack,gulp,babel,jest,cypress,opencv,grafana,postman,illustrator,photoshop&perline=17)](https://skillicons.dev)
 
 ### A quick project reference
 | Project |Status | Source | Stack | Currently Deploying To |

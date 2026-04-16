@@ -19,7 +19,7 @@
 [![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/blaineam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/millerblaine) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2062820)
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=swift,go,ts,js,react,angular,svelte,nextjs,nodejs,express,html,css,sass,tailwind,bootstrap,py,flask,java,php,laravel,symfony,cs,dotnet,docker,kubernetes,aws,gcp,azure,firebase,git,linux,bash,nginx,mongodb,mysql,postgres,maria,redis,sqlite,elasticsearch,kafka,rabbitmq,android,electron,unity,blender,webpack,gulp,babel,jest,cypress,opencv,grafana,postman,illustrator,photoshop&perline=17)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,go,ts,js,py,java,php,cs,lua,react,angular,svelte,flutter,jquery,d3,html,css,bootstrap,tailwind,latex,md,aws,gcp,cloudflare,firebase,docker,kubernetes,linux,ubuntu,arch,raspberrypi,bash,powershell,nginx,prometheus,grafana,git,github,gitlab,bitbucket,npm,vscode,visualstudio,idea,eclipse,neovim,vim,atom,mongodb,mysql,maria,redis,elasticsearch,laravel,symfony,dotnet,android,electron,unity,blender,autocad,arduino,opencv,babel,gulp,webpack,jest,cypress,postman,illustrator,photoshop,discord,linkedin,mastodon,instagram,twitter,stackoverflow,gmail,rabbitmq,wordpress&perline=17)](https://skillicons.dev)
 
 ### A quick project reference
 | Project |Status | Source | Stack | Currently Deploying To |

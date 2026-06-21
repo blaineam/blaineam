@@ -24,7 +24,7 @@
 ### A quick project reference
 | Project |Status | Source | Stack | Currently Deploying To |
 |------|-------|--------|-------|------------------------|
-| Haven - Private, Post-Quantum, P2P Social Network for Kith & Kin | Beta | [Github](https://github.com/blaineam/haven) | Rust, SwiftUI, Post-Quantum Crypto, iroh, WASM | Github, [Haven](https://wemiller.com/apps/haven/), TestFlight |
+| Haven - Private, Post-Quantum, P2P Social Network for Your People | Beta | [Github](https://github.com/blaineam/haven) | Rust, SwiftUI, Post-Quantum Crypto, iroh, WASM | Github, [Haven](https://wemiller.com/apps/haven/), TestFlight |
 | Blip - Featherlight macOS Menu Bar System Monitor | Operational | [Github](https://github.com/blaineam/Blip) | Swift, SwiftUI, IOKit, SMC | Github, [blip.wemiller.com](https://blip.wemiller.com) |
 | Glint - DDC Display Brightness & Volume Control | Operational | [Github](https://github.com/blaineam/Glint) | Swift, IOKit, DDC/CI | Github, [glint.wemiller.com](https://glint.wemiller.com) |
 | Monkr - Browser-Based Device Mockup Generator | Operational | [Github](https://github.com/blaineam/Monkr) | SvelteKit, TypeScript, Tailwind | Github |

@@ -28,6 +28,7 @@
 | Blip - Featherlight macOS Menu Bar System Monitor | Operational | [Github](https://github.com/blaineam/Blip) | Swift, SwiftUI, IOKit, SMC | Github, [blip.wemiller.com](https://blip.wemiller.com) |
 | Glint - DDC Display Brightness & Volume Control | Operational | [Github](https://github.com/blaineam/Glint) | Swift, IOKit, DDC/CI | Github, [glint.wemiller.com](https://glint.wemiller.com) |
 | Monkr - Browser-Based Device Mockup Generator | Operational | [Github](https://github.com/blaineam/Monkr) | SvelteKit, TypeScript, Tailwind | Github |
+| Lathe - On-Device Swift Media Engine | Operational | [Github](https://github.com/blaineam/Lathe) | Swift, AVFoundation, SVT-AV1, libwebp | Github, [Lathe](https://wemiller.com/apps/lathe/) |
 | KeyStone - SwiftUI Code Editor Component | Operational | [Github](https://github.com/blaineam/KeyStone) | Swift | Github, [Enter Space](https://wemiller.com/apps/enter-space/) |
 | MediaStream - SwiftUI Video Playback Library | Operational | [Github](https://github.com/blaineam/MediaStream) | Swift | Github, [Ari Helper](https://wemiller.com/apps/ari-helper/) |
 | Tessera - Cryptographic App Licensing (macOS & iOS) | Operational | [Github](https://github.com/blaineam/Tessera) | Go | Github, [Ari Helper](https://wemiller.com/apps/ari-helper/) |

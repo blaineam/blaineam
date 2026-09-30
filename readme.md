@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Blaine Miller</h1>
-<h3 align="center">A friendly Senior Software Engineer from California</h3>
+<h3 align="center">Senior Software Engineer · Current Secret Clearance · Bakersfield, CA</h3>
+<p align="center">I build real-time data platforms by day and ship my own apps by night. <b>Open to senior &amp; principal roles.</b></p>
 
-- 🔭 I’m currently working on [Supporting the many iOS apps I have on the App Store](https://wemiller.com/apps/)
+- 🛰️ Most recently at **Parsons**: RF signal processing pipelines on AWS Kubernetes (Kafka → Bento → ClickHouse, FluxCD GitOps, Istio, Grafana/Prometheus) and Java plugins for **TAKX**
 
-- 🌱 I’m currently learning **more about on-device AI/ML with Apple MLX**
+- 🤖 I'm building **Arc**, my private toolchain for AI coding agents that drives the dev lifecycle of most of my apps: **Soren** (automated QA), **Knox** (AI-assisted security audits), **Lynx** (LLM localization), [**Monkr**](https://github.com/blaineam/Monkr) (App Store mockups) and **Rocket** (App Store Connect releases)
 
-- 👯 I’m looking to collaborate on **AI/ML, VR, and privacy-first tooling**
+- 📱 20+ apps shipped across iOS, macOS, Android, Windows and the web: [wemiller.com/apps](https://wemiller.com/apps/)
 
-- 👨‍💻 All of my projects are available at [https://wemiller.com](https://wemiller.com)
+- 💬 Ask me about **streaming data, Kubernetes platforms, observability, system architecture and DevOps**
 
-- 💬 Ask me about **Micro Services, Rest APIs, System Architecture and DevOps**
+- 📫 Reach me at **blaine@wemiller.com** or on [LinkedIn](https://www.linkedin.com/in/millerblaine/)
 
-- 📫 How to reach me **blaine@wemiller.com**
-
-- ⚡ Fun fact **I love to photograph the world around me, going on adventures and spending time with my dog, Luma**
+- ⚡ Fun fact: **I photograph the night sky, go on adventures and spend time with my dog, Luma**
 
 ### Connect with me:
 [![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/blaineam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/millerblaine) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2062820)

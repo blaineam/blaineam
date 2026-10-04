@@ -4,7 +4,7 @@
 
 - 🛰️ Most recently at **Parsons**: RF signal processing pipelines on AWS Kubernetes (Kafka → Bento → ClickHouse, FluxCD GitOps, Istio, Grafana/Prometheus) and Java plugins for **TAKX**
 
-- 🤖 I'm building **Arc**, my private toolchain for AI coding agents that drives the dev lifecycle of most of my apps: **Soren** (automated QA), **Knox** (AI-assisted security audits), **Lynx** (LLM localization), [**Monkr**](https://github.com/blaineam/Monkr) (App Store mockups) and **Rocket** (App Store Connect releases)
+- 🤖 I'm building [**Ark**](https://wemiller.com/tools/ark/), my private toolchain for AI coding agents that drives the dev lifecycle of most of my apps: **Soren** (automated QA), **Knox** (AI-assisted security audits), **Levi** (LLM localization), [**Monkr**](https://wemiller.com/tools/monkr/) (App Store mockups), **Rocket** (multi-store releases), [**Tom**](https://wemiller.com/tools/tom/) (music) and **Hopps** (operational awareness: store, web and social metrics, with one-tap Claude fixes)
 
 - 📱 20+ apps shipped across iOS, macOS, Android, Windows and the web: [wemiller.com/apps](https://wemiller.com/apps/)
 
@@ -27,8 +27,8 @@
 | Scripture Alone - Free, Private, Offline Bible for iPhone, iPad, Mac & Apple Watch | Operational | [Github](https://github.com/blaineam/Scripture-Alone) | Swift, SwiftUI, TextKit, SwiftData, CloudKit, SQLite FTS5 | Github, [Scripture Alone](https://wemiller.com/apps/scripture-alone/), [App Store](https://apps.apple.com/us/app/scripture-alone-bible/id6813729762), Google Play (coming soon) |
 | Blip - Featherlight macOS Menu Bar System Monitor | Operational | [Github](https://github.com/blaineam/Blip) | Swift, SwiftUI, IOKit, SMC | Github, [blip.wemiller.com](https://blip.wemiller.com) |
 | Glint - DDC Display Brightness & Volume Control | Operational | [Github](https://github.com/blaineam/Glint) | Swift, IOKit, DDC/CI | Github, [glint.wemiller.com](https://glint.wemiller.com) |
-| Tom 🦎 - A Music Machine: Seeded, Royalty-Free Melodies & Songs (Web + CLI) | Operational | [Github](https://github.com/blaineam/Tom) | JavaScript, Web Audio, MIDI, Node | Github, [tom.wemiller.com](https://tom.wemiller.com) |
-| Monkr - Browser-Based Device Mockup Generator | Operational | [Github](https://github.com/blaineam/Monkr) | SvelteKit, TypeScript, Tailwind | Github, [monkr.wemiller.com](https://monkr.wemiller.com) |
+| Tom 🦎 - A Music Machine: Seeded, Royalty-Free Melodies & Songs (Web + CLI) | Operational | [Github](https://github.com/blaineam/Tom) | JavaScript, Web Audio, MIDI, Node | Github, [Tom](https://wemiller.com/tools/tom/) |
+| Monkr - Browser-Based Device Mockup Generator | Operational | [Github](https://github.com/blaineam/Monkr) | SvelteKit, TypeScript, Tailwind | Github, [Monkr](https://wemiller.com/tools/monkr/) |
 | Lathe - On-Device Swift Media Engine | Operational | [Github](https://github.com/blaineam/Lathe) | Swift, AVFoundation, SVT-AV1, libwebp | Github, [Lathe](https://wemiller.com/apps/lathe/) |
 | KeyStone - SwiftUI Code Editor Component | Operational | [Github](https://github.com/blaineam/KeyStone) | Swift | Github, [Enter Space](https://wemiller.com/apps/enter-space/) |
 | MediaStream - SwiftUI Video Playback Library | Operational | [Github](https://github.com/blaineam/MediaStream) | Swift | Github, [Ari Helper](https://wemiller.com/apps/ari-helper/) |

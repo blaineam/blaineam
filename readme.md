@@ -23,7 +23,7 @@
 ### A quick project reference
 | Project |Status | Source | Stack | Currently Deploying To |
 |------|-------|--------|-------|------------------------|
-| Haven - Private, Post-Quantum, P2P Social Network for Your People | Operational | [Github](https://github.com/blaineam/haven) | Rust, SwiftUI, Kotlin, Tauri, Post-Quantum Crypto, iroh | Github, [Haven](https://wemiller.com/apps/haven/), [App Store](https://apps.apple.com/app/id6782147901), [Microsoft Store](https://apps.microsoft.com/store/detail/9NKTFH1MF4LM) |
+| Haven - Private, Post-Quantum, P2P Social Network for Your People | Operational | [Github](https://github.com/blaineam/haven) | Rust, SwiftUI, Kotlin, Tauri, Post-Quantum Crypto, iroh | Github, [Haven](https://wemiller.com/apps/haven/), [App Store](https://apps.apple.com/app/id6782147901), [Google Play](https://play.google.com/store/apps/details?id=com.blaineam.haven), [Microsoft Store](https://apps.microsoft.com/store/detail/9NKTFH1MF4LM) |
 | Scripture Alone - Free, Private, Offline Bible for iPhone, iPad, Mac & Apple Watch | Operational | [Github](https://github.com/blaineam/Scripture-Alone) | Swift, SwiftUI, TextKit, SwiftData, CloudKit, SQLite FTS5 | Github, [Scripture Alone](https://wemiller.com/apps/scripture-alone/), [App Store](https://apps.apple.com/us/app/scripture-alone-bible/id6813729762), Google Play (coming soon) |
 | Blip - Featherlight macOS Menu Bar System Monitor | Operational | [Github](https://github.com/blaineam/Blip) | Swift, SwiftUI, IOKit, SMC | Github, [blip.wemiller.com](https://blip.wemiller.com) |
 | Glint - DDC Display Brightness & Volume Control | Operational | [Github](https://github.com/blaineam/Glint) | Swift, IOKit, DDC/CI | Github, [glint.wemiller.com](https://glint.wemiller.com) |

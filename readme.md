@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Blaine Miller</h1>
-<p align="center">I build real-time data platforms by day and ship my own apps by night. <b>Open to senior &amp; principal roles.</b></p>
+<p align="center">I build what's missing, the way I believe it should be. <b>Open to senior &amp; principal roles.</b></p>
 
 - 🛰️ Most recently at **Parsons**: RF signal processing pipelines on AWS Kubernetes (Kafka → Bento → ClickHouse, FluxCD GitOps, Istio, Grafana/Prometheus) and Java plugins for **TAKX**
 
